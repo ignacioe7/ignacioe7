@@ -18,7 +18,6 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [Tourism reviews sentiment analysis](https://github.com/ignacioe7/ProyectoDeTitulo) | Scrapes and analyzes 500k+ tourist attraction reviews with multilingual NLP, exposed through an interactive app | Python · Transformers · Streamlit · Plotly |
-| [Data Engineering practice](https://github.com/ignacioe7/data-engineering-practice) | SQL, Python, Spark, data modeling and system design exercises | SQL · Python · PySpark |
 
 ### Find me
 
