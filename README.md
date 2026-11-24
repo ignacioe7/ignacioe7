@@ -1,8 +1,8 @@
 ## Hi, I'm Ignacio 👋
 
-**Data Engineer** based in Chile. I build reliable data pipelines on AWS: ingestion, transformation and serving of analytical datasets, plus productionizing ML inference.
+**Data Engineer** based in Chile. I design data architectures and build reliable pipelines and software: ingestion, transformation and serving of analytical datasets, plus productionizing ML inference.
 
-- 🚇 Currently **Data Engineer at Metro de Santiago**: Glue/PySpark pipelines over S3 and Athena for transport analytics, batch ML inference on ECS Fargate, scrapers and ingestion with checkpoints.
+- 🚇 Previously **Data Engineer at Metro de Santiago**: Glue/PySpark pipelines over S3 and Athena for transport analytics, batch ML inference on ECS Fargate, scrapers and ingestion with checkpoints.
 - 📊 Previously **BI Consultant at KR Consulting**: Azure ETLs, BI models and Python automation.
 - 🎯 Open to **Data Engineer** roles.
 
